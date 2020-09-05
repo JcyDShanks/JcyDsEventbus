@@ -1,4 +1,4 @@
-package com.chunyu.dseventbus.demo
+package com.chunyu.eventbus.demo
 
 import org.junit.Test
 

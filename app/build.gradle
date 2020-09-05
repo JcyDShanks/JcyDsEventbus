@@ -7,7 +7,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.chunyu.dseventbus.demo"
+        applicationId "com.chunyu.eventbus.demo"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1
