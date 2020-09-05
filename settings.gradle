@@ -1,0 +1,3 @@
+include ':lib-android-eventbus'
+include ':app'
+rootProject.name = "DSEventbus"
